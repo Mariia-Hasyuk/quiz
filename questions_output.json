@@ -1,0 +1,123 @@
+[
+  {
+    "question_body": "Що таке RubyGems?",
+    "question_correct_answer": "C",
+    "question_answers": {
+      "A": "Фреймворк для розробки веб-додатків",
+      "B": "Система керування версіями",
+      "C": "Пакетний менеджер для Ruby",
+      "D": "Інтегроване середовище розробки",
+      "E": "Програмний стиль коду в Ruby"
+    }
+  },
+  {
+    "question_body": "Яким чином можна встановити гем в Ruby?",
+    "question_correct_answer": "A",
+    "question_answers": {
+      "A": "gem install назва_гему",
+      "B": "install gem назва_гему",
+      "C": "ruby install гем назва_гему",
+      "D": "gem add назва_гему",
+      "E": "add gem назва_гему"
+    }
+  },
+  {
+    "question_body": "Що таке Rails?",
+    "question_correct_answer": "C",
+    "question_answers": {
+      "A": "Мова програмування",
+      "B": "Бібліотека для роботи з базами даних",
+      "C": "Фреймворк для розробки веб-додатків на Ruby",
+      "D": "Інструмент для аналізу коду",
+      "E": "Сервер для виконання Ruby-скриптів"
+    }
+  },
+  {
+    "question_body": "Як визначити змінну в Ruby?",
+    "question_correct_answer": "A",
+    "question_answers": {
+      "A": "variable = value",
+      "B": "value = variable",
+      "C": "set variable to value",
+      "D": "var value = variable",
+      "E": "define variable as value"
+    }
+  },
+  {
+    "question_body": "Що таке символьний літерал в Ruby?",
+    "question_correct_answer": "C",
+    "question_answers": {
+      "A": ":це_рядок",
+      "B": "'це_рядок'",
+      "C": "`це_рядок`",
+      "D": "\"це_рядок\"",
+      "E": "/це_рядок/"
+    }
+  },
+  {
+    "question_body": "Яка функція використовується для виводу тексту в консоль у Ruby?",
+    "question_correct_answer": "A",
+    "question_answers": {
+      "A": "puts()",
+      "B": "print()",
+      "C": "display()",
+      "D": "show()",
+      "E": "output()"
+    }
+  },
+  {
+    "question_body": "Як вивести елемент з кінця масиву в Ruby?",
+    "question_correct_answer": "C",
+    "question_answers": {
+      "A": "array.last",
+      "B": "array.end",
+      "C": "array[-1]",
+      "D": "array.tail",
+      "E": "array.back"
+    }
+  },
+  {
+    "question_body": "Яка різниця між `==` і `===` в Ruby?",
+    "question_correct_answer": "B",
+    "question_answers": {
+      "A": "Обидва оператори використовуються для порівняння значень ідентично.",
+      "B": "`==` використовується для порівняння значень, а `===` для порівняння типів.",
+      "C": "`==` порівнює значення і тип, а `===` порівнює тільки значення.",
+      "D": "`===` використовується для порівняння значень, а `==` для порівняння типів.",
+      "E": "Немає різниці між ними, це синтаксичний цукор."
+    }
+  },
+  {
+    "question_body": "Що таке блок у Ruby?",
+    "question_correct_answer": "C",
+    "question_answers": {
+      "A": "Графічний елемент в інтерфейсі користувача.",
+      "B": "Група взаємопов'язаних змінних.",
+      "C": "Частина коду, яку можна передавати до інших методів.",
+      "D": "Спеціальний тип змінної.",
+      "E": "Бібліотека для роботи з асинхронним кодом."
+    }
+  },
+  {
+    "question_body": "Що таке символьний хеш у Ruby?",
+    "question_correct_answer": "C",
+    "question_answers": {
+      "A": "{:ключ => значення}",
+      "B": "{'ключ' => значення}",
+      "C": "{ключ: значення}",
+      "D": "{ключ = значення}",
+      "E": "[ключ, значення]"
+    }
+  },
+  {
+    "question_body": "Яким чином можна здійснити ітерацію по всіх елементах масиву в Ruby?",
+    "question_correct_answer": "B",
+    "question_answers": {
+      "A": "for element in array do",
+      "B": "array.each do |element|",
+      "C": "foreach element in array",
+      "D": "array.for_each { |element| }",
+      "E": "iterate array using element"
+    }
+  }
+]
